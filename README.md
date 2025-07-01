@@ -17,3 +17,5 @@ This project develops a predictive maintenance system for industrial pumps using
 Key achievements:
 - Achieved **92% recall** for critical "Broken" class
 - Reduced training time by **40%** through PCA optimization
+
+The dataset used is 'pump_sensor.csv' which was a sensor data file provided as a resource for the hackathon. It can be found at this link: https://github.com/JanderHungrige/PumpSensor?tab=readme-ov-file 
